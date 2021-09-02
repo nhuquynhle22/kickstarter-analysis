@@ -42,8 +42,8 @@ Only minor challenges were encountered. When using the formulas in charts I assi
 
 
 ## Attachments
-Line grapgh of outcome percetanges based on funding goal.
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/89143725/131838584-fa918af2-bb24-4c30-92fd-c8a50d5e6514.png) 
-
 Line graph showing the monthly outcome based on launch date.
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/89143725/131838560-d9324055-e968-4c72-9842-3d54dfe47210.png)
+
+Line grapgh of outcome percetanges based on funding goal.
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/89143725/131838584-fa918af2-bb24-4c30-92fd-c8a50d5e6514.png) 
